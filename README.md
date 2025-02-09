@@ -1,5 +1,8 @@
 # 💫 About Me:
-Aspiring Web Developer and MCA student with a strong foundation in Python, HTML, CSS and ReactJS.<br>I have hands-on experience for building innovative software projects and a passion for creating dynamic, user-friendly web applications.<br>With a problem-solving mindset and eagerness to learn, I constantly strive to enhance my technical skills and contribute meaningfully to impactful development projects.<br>Enthusiastic about leveraging technology to deliver creative solutions and shape seamless user experiences.
+* Aspiring Web Developer and MCA student with a strong foundation in Python, HTML, CSS and ReactJS.<br>
+* I have hands-on experience for building innovative software projects and a passion for creating dynamic, user-friendly web applications.<br>
+* With a problem-solving mindset and eagerness to learn, I constantly strive to enhance my technical skills and contribute meaningfully to impactful development projects.<br>
+* Enthusiastic about leveraging technology to deliver creative solutions and shape seamless user experiences.
 
 
 ## 🌐 Socials:
